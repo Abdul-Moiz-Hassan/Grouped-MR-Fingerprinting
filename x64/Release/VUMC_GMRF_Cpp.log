@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\abdul\OneDrive\Desktop\Research\VUMC_GMRF_Cpp\Source.cpp(209,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  2 of 173 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VUMC_GMRF_Cpp.vcxproj -> C:\Users\abdul\OneDrive\Desktop\Research\VUMC_GMRF_Cpp\x64\Release\VUMC_GMRF_Cpp.exe

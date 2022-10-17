@@ -1,0 +1,7 @@
+﻿  Source.cpp
+M:\BS EEE\1. MRF Research\VUMC_GMRF_Cpp\Source.cpp(183,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 171 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VUMC_GMRF_Cpp.vcxproj -> M:\BS EEE\1. MRF Research\VUMC_GMRF_Cpp\Release\VUMC_GMRF_Cpp.exe

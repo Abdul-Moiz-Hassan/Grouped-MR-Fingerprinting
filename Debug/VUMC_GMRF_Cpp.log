@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\mrf_moiz\vumc_gmrf_cpp\vumc_gmrf_cpp\source.cpp(232): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  VUMC_GMRF_Cpp.vcxproj -> E:\MRF_Moiz\VUMC_GMRF_Cpp\Debug\VUMC_GMRF_Cpp.exe
+  VUMC_GMRF_Cpp.vcxproj -> E:\MRF_Moiz\VUMC_GMRF_Cpp\Debug\VUMC_GMRF_Cpp.pdb (Full PDB)
